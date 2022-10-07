@@ -1,0 +1,2 @@
+webpackJsonp([0],{"7wwH":function(t,n,i){"use strict";var s={name:"MoXing",props:{name:String},data:function(){return{}}},a={render:function(){var t=this.$createElement,n=this._self._c||t;return n("div",{attrs:{id:"moxing"}},[n("div",{staticClass:"top"},[this._t("top")],2),this._v(" "),n("hr"),this._v(" "),n("div",{staticClass:"centor"},[this._t("centor")],2)])},staticRenderFns:[]};var e=i("VU/8")(s,a,!1,function(t){i("vz4P")},"data-v-0a3cea80",null);n.a=e.exports},vz4P:function(t,n){}});
+//# sourceMappingURL=0.6184743892d2caa79d55.js.map
